@@ -1,4 +1,4 @@
-# fxserver_esx_bankholdup
+# esx_bankholdup
 FXserver ESX Hold Up For Banks
 
 [REQUIREMENTS]
